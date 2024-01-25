@@ -1,3 +1,5 @@
+English | [简体中文](./README_zh.md)
+
 # Bomberman - Classic 2 to 4 Player Multiplayer Battle
 
 ## Introduction:
